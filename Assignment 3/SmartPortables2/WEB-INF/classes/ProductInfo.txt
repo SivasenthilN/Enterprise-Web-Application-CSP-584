@@ -1,0 +1,41 @@
+
+public class ProductInfo{
+
+	String ProductName;
+	int Stock;
+	Double ProductPrice;
+	
+	public ProductInfo(){
+	}
+	
+	public ProductInfo(String productName, int stock, Double productPrice){
+		this.ProductName = productName;
+		this.Stock = stock;
+		this.ProductPrice = productPrice;
+	}
+	
+	public void setProdcutName(String productName)
+	{
+		this.ProductName = productName;
+	}
+	
+	public String getProductName(){
+		return this.ProductName;
+	}
+	public void setItemsStock(int stock)
+	{
+		this.Stock = stock;
+	}
+	
+	public int getItemsStock(){
+		return this.Stock;
+	}
+	public void setProductPrice(Double productPrice)
+	{
+		this.ProductPrice = productPrice;
+	}
+	
+	public Double getProductPrice(){
+		return this.ProductPrice;
+	}
+}

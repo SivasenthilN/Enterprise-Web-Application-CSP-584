@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <product id="01" type="phone">
+        <image>images\iphone8.jpg</image>
+        <name>iPhone 8</name>
+        <condition>New</condition>
+        <price>799</price>
+    </product>
+    
+    <product id="02"  type="phone">
+        <image>images\s8.jpg</image>
+        <name>Samsung s8</name>
+        <condition>New</condition>
+        <price>649</price>
+    </product>
+    <product id="03"  type="phone">
+        <image>images\htc.png</image>
+        <name>Htc Desire</name>
+        <condition>New</condition>
+        <price>399</price>
+    </product>
+    <product id="04"  type="phone">
+        <image>images\motog.jpg</image>
+        <name>Moto g</name>
+        <condition>New</condition>
+        <price>299</price>
+    </product>
+    <product id="05"  type="phone">
+        <image>images\pixelxl.jpg</image>
+        <name>Google Pixel XL</name>
+        <condition>New</condition>
+        <price>599</price>
+    </product>
+    <product id="06"  type="phone">
+        <image>images\alcatel-idol-5s.jpg</image>
+        <name>alcatel idol 5s</name>
+        <condition>New</condition>
+        <price>399</price>
+    </product>
+    <product id="07"  type="phone">
+        <image>images\sony-xperia-xz1-ofic.jpg</image>
+        <name>Sony Xperia XZ1</name>
+        <condition>New</condition>
+        <price>349</price>
+    </product>	
+	
+    <product id="08" type="laptop">
+        <image>images\hp.png</image>
+        <name>HP</name>
+        <condition>New</condition>
+        <price>579</price>
+    </product>	
+
+	<product id="09"  type="laptop">
+        <image>images\dell.jpg</image>
+        <name>Dell</name>
+        <condition>New</condition>
+        <price>640</price>
+    </product>
+
+    <product id="10" type="laptop">
+        <image>images\ideapad510.jpg</image>
+        <name>Lenovo Ideapad</name>
+        <condition>New</condition>
+        <price>459</price>
+    </product>
+    <product id="11" type="laptop">
+        <image>images\macair.jpg</image>
+        <name>Mac Air</name>
+        <condition>New</condition>
+        <price>1199</price>
+    </product>
+    <product id="12" type="laptop">
+        <image>images\dell.png</image>
+        <name>Dell</name>
+        <condition>New</condition>
+        <price>560</price>
+    </product>
+
+    <product id="13" type="laptop">
+        <image>images\Acer.jpg</image>
+        <name>Acer</name>
+        <condition>New</condition>
+        <price>699</price>
+    </product>
+    <product id="14" type="laptop">
+        <image>images\Samsung1.jpg</image>
+        <name>Samsung1</name>
+        <condition>New</condition>
+        <price>539</price>
+    </product>
+    <product id="15" type="laptop">
+        <image>images\Sonyv.jpg</image>
+        <name>Sony Vaio</name>
+        <condition>New</condition>
+        <price>599</price>
+    </product>
+
+	
+	
+	
+	    <product id="16" type="Speaker">
+        <image>images\philips.jpg</image>
+        <name>Philips</name>
+        <condition>New</condition>
+        <price>300</price>
+    </product>
+    <product id="17" type="Speaker">
+        <image>images\jblsp.jpg</image>
+        <name>Beats</name>
+        <condition>New</condition>
+        <price>350</price>
+    </product>	
+    <product id="18" type="Speaker">
+        <image>images\speaker1.png</image>
+        <name>JBL</name>
+        <condition>New</condition>
+        <price>90</price>
+    </product>	
+	    <product id="19" type="Speaker">
+        <image>images\sony.jpg</image>
+        <name>Sony</name>
+        <condition>New</condition>
+        <price>450</price>
+    </product>
+	    <product id="20" type="Speaker">
+        <image>images\bpill.jpg</image>
+        <name>Beat Pills</name>
+        <condition>New</condition>
+        <price>399</price>
+    </product>
+	
+    <product id="21" type="Storage">
+        <image>images\samsung.jpg</image>
+        <name>Samsung Pendrive</name>
+        <condition>New</condition>
+        <price>23</price>
+    </product>	
+	<product id="22" type="Storage">
+        <image>images\usb.png</image>
+        <name>SONY Pendrive</name>
+        <condition>New</condition>
+        <price>15</price>
+    </product>	
+
+    <product id="23" type="Storage">
+        <image>images\sandisk.jpg</image>
+        <name>SanDisk Pendrive</name>
+        <condition>New</condition>
+        <price>30</price>
+
+	    <product id="24" type="Storage">
+        <image>images\cruzer.jpg</image>
+        <name>Cruzer Pendrive</name>
+        <condition>New</condition>
+        <price>19</price>
+    </product>
+	    <product id="25" type="Storage">
+        <image>images\seagate.jpg</image>
+        <name>Seagate 1TB HD</name>
+        <condition>New</condition>
+        <price>149</price>
+    </product>
+	    <product id="26" type="Storage">
+        <image>images\wd.jpg</image>
+        <name>WD My Passport 1TB HD</name>
+        <condition>New</condition>
+        <price>130</price>
+    </product>
+	    <product id="27" type="Storage">
+        <image>images\sonyhd.jpg</image>
+        <name>Sony slim 2TB HD</name>
+        <condition>New</condition>
+        <price>200</price>
+    </product>	
+	    <product id="28" type="Storage">
+        <image>images\dual.jpg</image>
+        <name>SanDisk dual drive 32gb</name>
+        <condition>New</condition>
+        <price>50</price>
+    </product>	
+	    <product id="29" type="Storage">
+        <image>images\iball.jpg</image>
+        <name>iBall 64GB dual drive</name>
+        <condition>New</condition>
+        <price>35</price>
+	</product>	
+	
+	
+	<product id="30" type="Headphone">
+        <image>images\beats.jpg</image>
+        <name>Beats Headphones</name>
+        <condition>New</condition>
+        <price>85</price>
+    </product>	
+    <product id="31" type="Headphone">
+        <image>images\beat.jpg</image>
+        <name>Beats Earphones</name>
+        <condition>New</condition>
+        <price>25</price>
+    </product>	
+    <product id="32" type="Headphone">
+        <image>images\jbl.jpg</image>
+        <name>JBL Headphones</name>
+        <condition>New</condition>
+        <price>90</price>
+    </product>	
+	    <product id="33" type="Headphone">
+        <image>images\jble.jpg</image>
+        <name>JBL Earphones</name>
+        <condition>New</condition>
+        <price>50</price>
+    </product>
+	    <product id="34" type="Headphone">
+        <image>images\skull.jpg</image>
+        <name>Skullcandy</name>
+        <condition>New</condition>
+        <price>85</price>
+    </product>
+	    <product id="35" type="Headphone">
+        <image>images\skullcandy.jpg</image>
+        <name>Skullcandy Earphones</name>
+        <condition>New</condition>
+        <price>25</price>
+    </product>
+	    <product id="36" type="Headphone">
+        <image>images\Bose2.jpg</image>
+        <name>Bose</name>
+        <condition>New</condition>
+        <price>130</price>
+    </product>
+	    <product id="37" type="Headphone">
+        <image>images\one.jpg</image>
+        <name>One plus Bullets</name>
+        <condition>New</condition>
+        <price>65</price>
+    </product>	
+	    <product id="38" type="Headphone">
+        <image>images\SonyB.jpg</image>
+        <name>Sony Headphones</name>
+        <condition>New</condition>
+        <price>80</price>
+    </product>	
+	    <product id="39" type="Headphone">
+        <image>images\sonye.jpg</image>
+        <name>Sony Earphones</name>
+        <condition>New</condition>
+        <price>20</price>
+    
+	
+	<product id="40" type="watch">
+        <image>images\Samsung_.jpg</image>
+        <name>Samsung Digital</name>
+        <condition>New</condition>
+        <price>115</price>
+    </product>	
+    <product id="41" type="watch">
+        <image>images\Motorola.jpg</image>
+        <name>Motorola watch</name>
+        <condition>New</condition>
+        <price>159</price>
+    </product>	
+	    <product id="42" type="watch">
+        <image>images\iwatch.jpg</image>
+        <name>Apple Watch</name>
+        <condition>New</condition>
+        <price>389</price>
+    </product>
+	    <product id="43" type="watch">
+        <image>images\rolex.jpg</image>
+        <name>Rolex</name>
+        <condition>New</condition>
+        <price>199</price>
+    </product>
+	    <product id="44" type="watch">
+        <image>images\fossil.jpg</image>
+        <name>Fossil</name>
+        <condition>New</condition>
+        <price>109</price>
+    </product>
+	    <product id="45" type="watch">
+        <image>images\fitbit.jpg</image>
+        <name>fitbit</name>
+        <condition>New</condition>
+        <price>180</price>
+	</product>	
+    </product>
+</Products>
